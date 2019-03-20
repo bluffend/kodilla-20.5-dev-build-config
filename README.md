@@ -1,1 +1,1 @@
-# Kodilla-20.4-Webpack-loaders
+# Kodilla-20.5-Webpack dev-build-config
